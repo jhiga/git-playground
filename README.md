@@ -4,4 +4,4 @@
 Welcome to git!
 
 ## Chapter 1
-By justinhi
+By justinhi and jhiga
